@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article class="article">
+  <p><a class="back" href="{{ '/' | relative_url }}">← Tutti gli articoli</a></p>
+  <p class="meta">{{ page.category }} · {{ page.date | date: "%d/%m/%Y" }}</p>
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+  {% if page.image %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: '' }}">{% endif %}
+  <div class="article-body">{{ content }}</div>
+  <hr>
+  <p class="back"><a href="{{ '/' | relative_url }}">← Torna a tutti gli articoli</a></p>
+</article>

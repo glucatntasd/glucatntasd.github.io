@@ -1,0 +1,8 @@
+title: "Terracina Network Trails A.S.D."
+description: "Sport, natura e territorio."
+url: "https://www.tnt-asd.it"
+baseurl: ""
+markdown: kramdown
+permalink: /articoli/:title/
+exclude:
+  - README.md
