@@ -12,10 +12,15 @@ Scrivi qui una breve descrizione del video.
 
 ## Guarda il video
 
-<iframe width="560" height="315"
-src="https://www.youtube-nocookie.com/embed//shorts/OyghgqOrTD4?si=ke7KHkcCI9lJM3tB"
-title="Titolo del video"
-allowfullscreen></iframe>
+<div class="video-container video-short">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/OyghgqOrTD4"
+    title="Video TNT su YouTube Shorts"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
 [Guarda il video su YouTube](https://www.youtube-nocookie.com/embed/)
 
