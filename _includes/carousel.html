@@ -1,0 +1,22 @@
+{% if include.images and include.images.size > 0 %}
+<div class="photo-carousel">
+  <div class="carousel-track">
+    {% for photo in include.images %}
+    <figure class="carousel-slide">
+      <img src="{{ photo.image | relative_url }}"
+           alt="{{ photo.alt | default: '' | escape }}"
+           loading="lazy">
+      {% if photo.caption %}
+      <figcaption>{{ photo.caption | escape }}</figcaption>
+      {% endif %}
+    </figure>
+    {% endfor %}
+  </div>
+
+  {% if include.images.size > 1 %}
+  <button class="carousel-arrow prev" aria-label="Foto precedente">❮</button>
+  <button class="carousel-arrow next" aria-label="Foto successiva">❯</button>
+  <div class="carousel-dots"></div>
+  {% endif %}
+</div>
+{% endif %}

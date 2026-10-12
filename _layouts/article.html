@@ -8,6 +8,9 @@ layout: default
   {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
   {% if page.image %}<img class="cover" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: '' }}">{% endif %}
   <div class="article-body">{{ content }}</div>
+
+{% include carousel.html images=page.gallery %}
+  
   <hr>
   <p class="back"><a href="{{ '/' | relative_url }}">← Torna a tutti gli articoli</a></p>
 </article>

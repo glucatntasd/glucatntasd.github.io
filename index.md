@@ -3,8 +3,6 @@ layout: default
 title: TNT-ASD Home Page
 ---
 
-# TNT-asd
-
 <div class="home-cover">
   <img src="{{ '/assets/home_photo.png' | relative_url }}"
        alt="">
