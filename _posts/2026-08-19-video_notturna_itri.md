@@ -7,15 +7,18 @@ subtitle: "Un breve video dell'evento"
 image: "/assets/locandina_notturna_itri.jpg"
 
 gallery:
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/birra.jpeg"
+      alt: "birra"
+      caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_da_su.jpg"
-      alt: "Prova"
-      caption: "Provacaption"
+      alt: "premiazioni_da_su"
+      caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_diego.jpg"
-      alt: "Prova2"
-      caption: "Provacaption2"
+      alt: "Premiazioni"
+      caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_bimbimedaglia.jpg"
-      alt: "Prova3"
-      caption: "Provacaption4"
+      alt: "Premiazioni"
+      caption: ""
 ---
 
 
@@ -35,3 +38,4 @@ Mercoledì 19 agosto ore 20:00 in piazza Umberto Primo a Itri
 [Guarda il video su YouTube](https://www.youtube-nocookie.com/embed/OyghgqOrTD4)
 
 
+## Alcune foto  
