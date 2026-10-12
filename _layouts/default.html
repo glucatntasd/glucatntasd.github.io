@@ -9,7 +9,15 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">TNT</span><span><strong>Terracina Network Trails</strong><small>ASSOCIAZIONE SPORTIVA DILETTANTISTICA</small></span></a>
+    <a class="brand" href="{{ '/' | relative_url }}">
+    <img class="brand-logo"
+       src="{{ '/assets/tnt-logo.png' | relative_url }}"
+       alt="Logo TNT">
+  <span class="brand-text">
+    <strong>TNT-asd</strong>
+    <small>Associazione sportiva dilettantistica affiliata alla Federazione Italiana Sport Orientamento</small>
+  </span>
+</a>
     <nav><a href="{{ '/' | relative_url }}">Articoli</a><a href="{{ '/#footer' | relative_url }}">Contatti</a></nav>
   </header>
   <main class="container">
