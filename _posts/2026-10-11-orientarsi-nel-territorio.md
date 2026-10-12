@@ -8,12 +8,15 @@ image: "/assets/paesaggio.jpg"
 ---
 
 
+Scrivi qui una breve descrizione del video.
 
-## Titolo articolo
+## Guarda il video
 
-Testo
+<iframe width="560" height="315"
+src="https://youtube.com/shorts/OyghgqOrTD4?si=ke7KHkcCI9lJM3tB"
+title="Titolo del video"
+allowfullscreen></iframe>
 
-> citazione
+[Guarda il video su YouTube](https://youtube.com/shorts/OyghgqOrTD4?si=ke7KHkcCI9lJM3tB)
 
-## Un'attività per tutti
 
