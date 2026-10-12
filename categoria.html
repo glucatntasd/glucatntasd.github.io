@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="container">
+  <p><a class="back" href="{{ '/categories/' | relative_url }}">← Tutte le categorie</a></p>
+
+  <h1>{{ page.category }}</h1>
+
+  {% assign articoli = site.categories[page.category] | sort: "date" | reverse %}
+
+  {% for post in articoli %}
+    <article class="post-card">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="">
+      {% endif %}
+
+      <p class="meta">{{ post.date | date: "%d/%m/%Y" }}</p>
+
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+
+      {% if post.subtitle %}
+        <p>{{ post.subtitle }}</p>
+      {% endif %}
+
+      <a class="read-more" href="{{ post.url | relative_url }}">
+        Leggi l'articolo →
+      </a>
+    </article>
+  {% endfor %}
+</div>
