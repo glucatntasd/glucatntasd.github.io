@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Tutti gli articoli
+title: TNT-ASD Home Page
 ---
 
 # TNT-asd
 
 <div class="home-cover">
   <img src="{{ '/assets/home_photo.png' | relative_url }}"
-       alt="Attività di orienteering nel territorio">
+       alt="">
 </div>
 
-## Gli articoli più recenti.
+## ARTICOLI RECENTI
 
 {% for post in site.posts %}
 <article class="post-card">

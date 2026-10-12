@@ -208,3 +208,24 @@ h2 {
   .article-body { font-size: 16px; }
   .video-container.video-short { max-width: min(320px, 100%); }
 }
+
+.category-articles {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0 32px;
+}
+
+.category-articles li {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.category-articles a {
+  font-weight: 600;
+}
+
+.category-articles small {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
