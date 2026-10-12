@@ -15,13 +15,12 @@ Scrivi qui una breve descrizione del video.
 <div class="video-container video-short">
   <iframe
     src="https://www.youtube-nocookie.com/embed/OyghgqOrTD4"
-    title="Video TNT su YouTube Shorts"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
+    title="Video TNT"
     allowfullscreen>
   </iframe>
 </div>
 
-[Guarda il video su YouTube](https://www.youtube-nocookie.com/embed/)
+
+[Guarda il video su YouTube](https://www.youtube-nocookie.com/embed/OyghgqOrTD4)
 
 
