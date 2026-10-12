@@ -10,7 +10,7 @@ title: Tutti gli articoli
        alt="Attività di orienteering nel territorio">
 </div>
 
-Gli articoli più recenti.
+## Gli articoli più recenti.
 
 {% for post in site.posts %}
 <article class="post-card">
