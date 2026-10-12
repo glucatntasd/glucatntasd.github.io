@@ -3,11 +3,9 @@ layout: default
 title: Tutti gli articoli
 ---
 
-# Dal territorio
+# TNT-asd
 
-Storie, attività e progetti di **Terracina Network Trails A.S.D.**
-
-Gli articoli più recenti sono elencati qui sotto.
+Gli articoli più recenti.
 
 {% for post in site.posts %}
 <article class="post-card">
