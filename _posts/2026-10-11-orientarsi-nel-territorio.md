@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Orientarsi significa imparare a leggere il territorio"
+title: "Prima notturna città di Itri"
 date: 2026-10-11
 category: "Orienteering"
-subtitle: ""
+subtitle: "Un breve video dell'evento"
 image: "/assets/paesaggio.jpg"
 ---
 
