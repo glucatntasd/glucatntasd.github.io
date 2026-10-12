@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Articoli
+title: Tutti gli articoli
 ---
 
 # Dal territorio
