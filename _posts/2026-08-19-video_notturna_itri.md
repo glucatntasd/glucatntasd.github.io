@@ -1,10 +1,10 @@
 ---
 layout: article
 title: "Prima notturna città di Itri"
-date: 2026-10-11
+date: 2026-08-19
 category: "Orienteering"
 subtitle: "Un breve video dell'evento"
-image: "/assets/paesaggio.jpg"
+image: "/assets/locandina_notturna_itri.jpg"
 ---
 
 
