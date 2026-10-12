@@ -5,6 +5,11 @@ title: Tutti gli articoli
 
 # TNT-asd
 
+<div class="home-cover">
+  <img src="{{ '/assets/home_photo.png' | relative_url }}"
+       alt="Attività di orienteering nel territorio">
+</div>
+
 Gli articoli più recenti.
 
 {% for post in site.posts %}
