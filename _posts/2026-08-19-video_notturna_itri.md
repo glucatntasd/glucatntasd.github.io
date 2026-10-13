@@ -3,13 +3,13 @@ layout: article
 title: "Prima notturna città di Itri: foto e video"
 date: 2026-08-19
 category: "Orienteering"
-subtitle: "Un breve video dell'evento"
+subtitle: ""
 tags:
   - eventi
   - gare
   - notturna
   - Itri
-image: "/assets/locandina_notturna_itri.jpg"
+image: "/assets/2026-10-18_itri/premiazioni_bimbi_pano.jpg"
 
 gallery:
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/briefing_back.jpg"
