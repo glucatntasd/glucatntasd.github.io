@@ -4,21 +4,41 @@ title: "Prima notturna città di Itri: foto e video"
 date: 2026-08-19
 category: "Orienteering"
 subtitle: "Un breve video dell'evento"
+tags:
+  - eventi
+  - gare
+  - notturna
+  - Itri
 image: "/assets/locandina_notturna_itri.jpg"
 
 gallery:
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/briefing_back.jpg"
+      alt: ""
+      caption: "Briefing"
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/briefing_front.jpg"
+      alt: ""
+      caption: "Briefing"
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/la_fila.jpg"
+      alt: ""
+      caption: "La registrazione"
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/birra.jpeg"
-      alt: "birra"
+      alt: ""
+      caption: ""
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/fontana.jpg"
+      alt: ""
       caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_da_su.jpg"
-      alt: "premiazioni_da_su"
+      alt: ""
       caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_diego.jpg"
-      alt: "Premiazioni"
+      alt: ""
       caption: ""
     - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazioni_bimbimedaglia.jpg"
-      alt: "Premiazioni"
-      caption: ""
+      alt: ""
+      caption: "Un ricordo per i più piccoli"
+    - image: "http://www.tnt-asd.it/wp-content/uploads/2026/08/premiazione_primi.jpg"
+      alt: ""
+      caption: "I vincitori"
 ---
 
 
